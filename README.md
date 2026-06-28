@@ -12,8 +12,6 @@
   <p>A passionate individual in Software Engineering who aims to be a full-stack developer.</p>
   
   <br>
-  
-  <img src="https://raw.githubusercontent.com/Karem-Mounir-Saad/Karem-Mounir-Saad/main/programmer.gif" alt="Programmer working" width="350">
 
 </div>
 
