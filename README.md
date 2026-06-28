@@ -2,16 +2,15 @@
   
   <h1>Hi all, I'm Trinh ! 👋</h1>
   
-  <!-- Dùng h3 để mất đường kẻ dưới, thêm align="middle" vào ảnh để 2 chữ nằm trên 1 đường thẳng ngang -->
   <h3>
-    UIT | <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;AI+Enginner" alt="Typing SVG" align="middle" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&color=FFFFFF&vCenter=true&width=65&height=30&lines=UIT+%7C&repeat=false" alt="UIT" /><img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;Backend+Developer;Machine+Learning" alt="Typing SVG" />
   </h3>
   
   <p>A passionate individual in Software Engineering who aims to be a full-stack developer.</p>
   
   <br>
   
-  ![](https://images.steamusercontent.com/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+    ![](https://images.steamusercontent.com/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 </div>
 
