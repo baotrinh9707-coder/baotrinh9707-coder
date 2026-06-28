@@ -32,3 +32,12 @@
 [![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 
+<div align="center">
+  <h3>🐍 My GitHub Contributions Snake</h3>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baotrinh9707-coder/baotrinh9707-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baotrinh9707-coder/baotrinh9707-coder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/baotrinh9707-coder/baotrinh9707-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
