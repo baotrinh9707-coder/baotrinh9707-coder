@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&color=FFFFFF&vCenter=true&width=65&height=30&lines=UIT+%7C&repeat=false" alt="UIT" /><img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;Backend+Developer;Machine+Learning" alt="Typing SVG" />
   </h3>
   
-  <h4><b>A passionate individual in Software Engineering who aims to be a full-stack developer.</b></h4>
+  <h3><b>A passionate individual in Software Engineering who aims to be a full-stack developer.</b></h3>
   
   <br>
   
