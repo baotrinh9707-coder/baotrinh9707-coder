@@ -14,7 +14,7 @@ A passionate individual in Software Engineering who aims to be a full-stack deve
 <!-- Các huy hiệu (badges) mạng xã hội có màu sắc -->
 [![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bao.trinh.770396)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oab.trinhf_/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your_linkedin_link](https://www.linkedin.com/in/tr%C3%ACnhh-b%E1%BA%A3o-039633404/))
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tr%C3%ACnhh-b%E1%BA%A3o-039633404/])
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](your_discord_link)
 
 <br>
