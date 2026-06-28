@@ -5,7 +5,7 @@
 A passionate individual in Software Engineering who aims to be a full-stack developer. | Member of academic team UIT Fan Club | 📄 I regularly write about code on my blog
 
 <!-- Nhúng một GIF động (ví dụ: cảnh chiến đấu trong anime) -->
-![](https://media.giphy.com/media/your_gif_link.gif)  <!-- <--- THAY LINK GIF CỦA BẠN VÀO ĐÂY -->
+![](https://images.steamusercontent.com/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)  <!-- <--- THAY LINK GIF CỦA BẠN VÀO ĐÂY -->
 
 <br>
 
