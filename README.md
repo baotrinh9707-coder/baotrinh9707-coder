@@ -4,7 +4,7 @@
   
   <!-- Dùng h3 để mất đường kẻ dưới, thêm align="middle" vào ảnh để 2 chữ nằm trên 1 đường thẳng ngang -->
   <h3>
-    UIT | <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;Backend+Developer;Machine+Learning" alt="Typing SVG" align="middle" />
+    UIT | <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;AI+Enginner" alt="Typing SVG" align="middle" />
   </h3>
   
   <p>A passionate individual in Software Engineering who aims to be a full-stack developer.</p>
