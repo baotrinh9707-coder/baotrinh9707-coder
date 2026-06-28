@@ -2,23 +2,18 @@
   
   <h1>Hi all, I'm Trinh ! 👋</h1>
   
-  <h2>
-    UIT | 
-    <a href="https://github.com/denvercoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=24&pause=1000&color=58A6FF&vCenter=true&width=300&height=40&lines=Software+Engineer;Backend+Developer;Machine+Learning" alt="Typing SVG" style="vertical-align: middle;" />
-    </a>
-  </h2>
+  <!-- Dùng h3 để mất đường kẻ dưới, thêm align="middle" vào ảnh để 2 chữ nằm trên 1 đường thẳng ngang -->
+  <h3>
+    UIT | <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=280&height=30&lines=Software+Engineer;Backend+Developer;Machine+Learning" alt="Typing SVG" align="middle" />
+  </h3>
   
   <p>A passionate individual in Software Engineering who aims to be a full-stack developer.</p>
   
   <br>
+  
+  ![](https://images.steamusercontent.com/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 </div>
-
-<!-- Nhúng một GIF động (ví dụ: cảnh chiến đấu trong anime) -->
-![](https://images.steamusercontent.com/ugc/449611652050198394/003B0F458420C44A75D10CBDC94A9C0B964C06F7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)  <!-- <--- THAY LINK GIF CỦA BẠN VÀO ĐÂY -->
-
-<br>
 
 ### Contact me through:
 
